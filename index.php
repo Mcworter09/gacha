@@ -30,6 +30,5 @@ require "app/app.php";
         </div>
         <?php endif ?>
     </div>
-    <script type="text/javascript" src="app/script.js"></script>
 </body>
 </html>
